@@ -158,4 +158,4 @@ The following activity diagram outlines the process of reading an e-book:
 
 This description provides a detailed view of the activities involved in reading an e-book, following a structured process from start to end.
 
-![Activity Diagram](2nddiagram.png)
+![Activity Diagram](https://github.com/itsaxat7479/E-Commerce-System---OOAD/blob/1b036066e52a1d95ab9f719b24e29adc74ca4af8/2nd%20diagram%20activity.png)
