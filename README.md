@@ -88,3 +88,44 @@ The e-book project aims to deliver a comprehensive digital book that is accessib
 ### Feedback and Iteration
 - Gather user feedback to improve content and usability.
 
+
+Activity Diagram: Reading an E-Book
+1. Define the Main Activities
+
+Start
+Open E-Book Application
+Log In (if needed)
+Browse Library
+Select E-Book
+Download/Access E-Book
+Read E-Book
+Navigate Chapters
+Bookmark Pages
+Highlight Text
+Add Notes
+Search Within E-Book
+Close E-Book Application
+End
+2. Create the Diagram
+
+To create the activity diagram, follow these steps:
+
+Start with a Start Node
+Start: Indicate the beginning of the process.
+Activity Nodes
+Open E-Book Application: The user launches the e-book reader application.
+Log In (if needed): If authentication is required, the user logs in.
+Browse Library: The user navigates through their library or available e-books.
+Select E-Book: The user selects an e-book from the library.
+Download/Access E-Book: The e-book is either downloaded or accessed directly.
+Read E-Book: The user reads the e-book and performs various actions:
+Navigate Chapters: Moving between chapters or sections.
+Bookmark Pages: Adding bookmarks for easy navigation.
+Highlight Text: Highlighting important text.
+Add Notes: Adding personal notes or annotations.
+Search Within E-Book: The user searches for specific content within the e-book.
+Close E-Book Application: The user exits the e-book reader application.
+Decision Nodes
+Log In (if needed): Check if login is required.
+End Node
+End: Indicate the end of the process.
