@@ -159,3 +159,37 @@ The following activity diagram outlines the process of reading an e-book:
 This description provides a detailed view of the activities involved in reading an e-book, following a structured process from start to end.
 
 ![Activity Diagram](https://github.com/itsaxat7479/E-Commerce-System---OOAD/blob/1b036066e52a1d95ab9f719b24e29adc74ca4af8/2nd%20diagram%20activity.png)
+
+
+
+# E-Book System
+
+## Use Case Diagram
+
+The following diagram illustrates the use cases for the e-book system, showing the interactions between users and the system, as well as the roles of different actors.
+
+![Use Case Diagram](https://github.com/your-username/your-repository-name/blob/main/use_case_diagram.png)
+
+### Actors
+
+- **User**: Represents a regular user of the e-book system.
+- **Admin**: Represents an administrator who manages the system.
+
+### Use Cases
+
+- **Browse Library**: The user can browse through the e-book library.
+- **Select E-Book**: The user selects a specific e-book.
+- **Download/Access E-Book**: The user downloads or accesses the e-book.
+- **Read E-Book**: The user reads the e-book.
+- **Search Within E-Book**: The user searches for specific content in the e-book.
+- **Manage E-Books**: The admin manages the e-books available in the system.
+- **Manage Users**: The admin manages user accounts and permissions.
+
+### Relationships
+
+- **Includes**: The `Read E-Book` use case includes:
+  - **Bookmark Pages**: Users can bookmark pages for later reference.
+  - **Highlight Text**: Users can highlight text within the e-book.
+  - **Add Notes**: Users can add personal notes and annotations.
+
+
