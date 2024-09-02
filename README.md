@@ -168,7 +168,7 @@ This description provides a detailed view of the activities involved in reading 
 
 The following diagram illustrates the use cases for the e-book system, showing the interactions between users and the system, as well as the roles of different actors.
 
-![Use Case Diagram]([https://github.com/your-username/your-repository-name/blob/main/use_case_diagram.png](https://github.com/itsaxat7479/E-Commerce-System---OOAD/blob/d6966fff270a70e4e814f24d9442d4d1d997e7f8/use%20case%20diagram.png)
+![Use Case Diagram](https://github.com/itsaxat7479/E-Commerce-System---OOAD/blob/d6966fff270a70e4e814f24d9442d4d1d997e7f8/use%20case%20diagram.png)
 
 ### Actors
 
