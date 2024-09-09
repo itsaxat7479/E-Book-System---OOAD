@@ -198,7 +198,7 @@ The following diagram illustrates the use cases for the e-book system, showing t
 This document includes the PlantUML code for the state chart diagram of the e-book system.
 
 ## State Chart Diagram
-
+![Use state chart Diagram](https://github.com/itsaxat7479/E-Book-System---OOAD/blob/5606b18b87806dd88234806fd93936a42c2ec68a/stat%20chart.png)
 ```plantuml
 @startuml
 
