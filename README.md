@@ -193,3 +193,25 @@ The following diagram illustrates the use cases for the e-book system, showing t
   - **Add Notes**: Users can add personal notes and annotations.
 
 
+# E-Book System State Chart Diagram
+
+This document includes the PlantUML code for the state chart diagram of the e-book system.
+
+## State Chart Diagram
+
+```plantuml
+@startuml
+
+[*] --> Idle
+
+Idle --> Browsing : BrowseLibrary
+Browsing --> Selecting : SelectEBook
+Selecting --> Downloading : DownloadAccessEBook
+Downloading --> Reading : AccessComplete
+Reading --> Reading : BookmarkPages
+Reading --> Reading : HighlightText
+Reading --> Reading : AddNotes
+Reading --> Closed : CloseEBook
+Closed --> Idle : ReopenEBook
+
+@enduml
